@@ -1,90 +1,82 @@
-🚗 Car Sales Analysis Dashboard – Power BI
+# 🚗 Car Sales Analysis Dashboard – Power BI
 
+![Power BI](https://img.shields.io/badge/PowerBI-Data%20Visualization-F2C811?logo=powerbi&logoColor=000)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Category](https://img.shields.io/badge/Domain-Data%20Analytics-blue)
+![Tool](https://img.shields.io/badge/Tech-Interactive%20Dashboard-lightgrey)
 
+---
 
+## 📌 Project Overview
+The **Car Sales Analysis Dashboard** is a Power BI project developed to analyze dealership performance using real-time KPIs, sales trends, and customer insights. It visualizes YTD, MTD, and YOY metrics, helping businesses make data-driven decisions and understand sales patterns across models, colors, and regions.
 
+---
 
+## 🎯 Objective
+To build a dynamic and interactive dashboard that highlights key performance indicators, sales patterns, and detailed transactional insights that drive strategic decision-making.
 
+---
 
+## 📝 Problem Statement
+The dealership requires a unified dashboard to monitor:
+- Sales performance (YTD, MTD, YOY)
+- Regional dealer performance
+- Sales by model, body style, and color
+- Detailed car-level sales data
 
-📌 Project Overview
+This dashboard helps the management analyze trends, identify growth opportunities, and optimize inventory decisions.
 
-The Car Sales Analysis Dashboard is a Power BI project built to analyze and visualize dealership sales data across regions, models, body styles, colors, and time periods. It provides real-time insights for improving sales decisions, forecasting, and business planning.
+---
 
-🎯 Objective
+## 📊 Dashboard Screenshots
 
-To create a dynamic dashboard that highlights all key KPIs such as YTD, MTD, YOY Sales, average pricing trends, cars sold metrics, and detailed drill-down insights that help the organization understand overall performance.
+> ⚠️ Replace `YOUR_IMAGE_LINK_HERE` with your uploaded GitHub image URLs.
 
-📝 Problem Statement
+### 📍 Overview Dashboard
+![Overview Dashboard](YOUR_IMAGE_LINK_HERE)
 
-The dealership required a single analytical dashboard to monitor:
+### 📍 Details Dashboard
+![Details Dashboard](YOUR_IMAGE_LINK_HERE)
 
-Sales performance trends
+---
 
-Regional performance of dealers
+## 📊 Key Features
 
-YTD vs MTD vs YOY metrics
+### 🔹 KPI Highlights
+- YTD, MTD & YOY Total Sales  
+- YTD, MTD & YOY Average Price  
+- YTD, MTD & YOY Cars Sold  
+- Difference vs Previous YTD  
 
-Sales contribution by body style & color
+### 🔹 Visual Insights
+- Weekly YTD Sales Trend (Line Chart)  
+- YTD Sales by Body Style (Donut Chart)  
+- YTD Sales by Color (Donut Chart)  
+- Dealer Region Sales (Map)  
+- Company-wise Sales Grid  
+- Complete Sales Details Table  
 
-Detailed car-level transactional data
+---
 
-This dashboard centralizes all insights for faster and more accurate decision-making.
+## 🛠 Tools & Technologies
+- **Power BI Desktop**
+- **Power Query** for data cleaning
+- **DAX** for measures & calculations
+- **Interactive visuals, filtering & slicers**
 
-📊 Dashboard Screenshots
-📍 Overview Dashboard
+---
 
-This page displays KPI cards, the weekly YTD trend line chart, pie charts for body style & color, map-based regional performance, and a company-wise sales grid.
+## 📦 Files Included
+- `CAR SALES ANALYSIS.pbix`
+- `Problem Statement.docx`
+- `README.md`
 
-📍 Details Dashboard
+---
 
-This page contains a detailed table of all sales transactions, including car model, dealer name, company, color, price, and total sales. KPI cards summarize YTD, MTD, YOY metrics.
+## 📜 Conclusion
+This dashboard converts raw car sales data into actionable insights, helping the dealership understand market trends, track performance, and make informed business decisions.
 
-📊 Key Features
-🔹 KPI Highlights
+---
 
-YTD, MTD & YOY Sales
+## ⭐ If you found this project helpful, please star the repository!
 
-YTD, MTD & YOY Average Price
-
-YTD, MTD & YOY Cars Sold
-
-Performance difference vs Previous YTD
-
-🔹 Visual Insights
-
-📈 Weekly YTD Sales Trend (Line Chart)
-
-🟣 YTD Sales by Body Style (Donut Chart)
-
-🔴 YTD Sales by Color (Donut Chart)
-
-🗺 Region-wise Sales by Dealer (Map)
-
-🏢 Company-wise Sales Trend (Grid)
-
-📄 Complete Sales Detail Table
-
-🛠 Tools & Technologies
-
-Power BI Desktop (.pbix)
-
-DAX (Measures & Calculated Columns)
-
-Power Query (Data Cleaning)
-
-Interactive Visuals & Slicers
-
-📦 Files Included
-
-CAR SALES ANALYSIS.pbix
-
-Problem Statement.docx
-
-README.md
-
-📜 Conclusion
-
-This dashboard provides a complete analytical view of dealership performance, enabling better forecasting, strategic planning, and operational efficiency through clean data visualization and interactive insights.
-
-⭐ If you like this project, please star the repository!
