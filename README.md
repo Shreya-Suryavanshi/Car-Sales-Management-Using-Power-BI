@@ -33,10 +33,10 @@ This dashboard helps the management analyze trends, identify growth opportunitie
 > ⚠️ Replace `YOUR_IMAGE_LINK_HERE` with your uploaded GitHub image URLs.
 
 ### 📍 Overview Dashboard
-![Overview Dashboard](YOUR_IMAGE_LINK_HERE)
+![Overview Dashboard](https://github.com/Shreya-Suryavanshi/Car-Sales-Management-Using-Power-BI/blob/main/Overview%20Dashboard.png)
 
 ### 📍 Details Dashboard
-![Details Dashboard](YOUR_IMAGE_LINK_HERE)
+![Details Dashboard]((https://github.com/Shreya-Suryavanshi/Car-Sales-Management-Using-Power-BI/blob/main/Details%20Dashboard.png))
 
 ---
 
