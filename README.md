@@ -36,7 +36,7 @@ This dashboard helps the management analyze trends, identify growth opportunitie
 ![Overview Dashboard](https://github.com/Shreya-Suryavanshi/Car-Sales-Management-Using-Power-BI/blob/main/Overview%20Dashboard.png)
 
 ### 📍 Details Dashboard
-![Details Dashboard]((https://github.com/Shreya-Suryavanshi/Car-Sales-Management-Using-Power-BI/blob/main/Details%20Dashboard.png))
+![Details Dashboard](https://github.com/Shreya-Suryavanshi/Car-Sales-Management-Using-Power-BI/blob/main/Details%20Dashboard.png)
 
 ---
 
